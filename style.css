@@ -17,3 +17,12 @@ border: solid 2px #008cba;
 padding: 40px;
 margin-top: 20px;
 }
+/* Makes changes to images */
+.img-thumbnail {
+    border: solid 2px #008cba;
+    margin-left: 10px;
+   
+}
+#container1{
+    margin-left: 50px;
+}
