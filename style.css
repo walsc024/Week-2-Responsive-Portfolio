@@ -1,12 +1,19 @@
+/* Makes changes to all h1 tags */
 h1 {
    color:#008cba ;
 }
-
+/* changes the footer */
 footer {
     background-color: #008cba;
     color: #ffffff;
 }
-
+/* Changes to the colour of the links */
 a {
 color:#ffffff;
+}
+/* Makes changes to the form */
+form {
+border: solid 2px #008cba;
+padding: 40px;
+margin-top: 20px;
 }
